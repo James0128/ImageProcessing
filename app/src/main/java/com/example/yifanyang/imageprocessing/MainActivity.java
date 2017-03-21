@@ -154,8 +154,6 @@ public class MainActivity extends AppCompatActivity {
                     } catch (FileNotFoundException e) {
                         e.printStackTrace();
                     }
-                }else {
-                    Log.i("ccc","not ok");
                 }
                 break;
 
